@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">404 Not Found Page</h1>
+<h1 align="center">My Team Page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://d3r3-k.github.io/ResponsiveWebDev/404-not-found-master/">
+    <a href="https://d3r3-k.github.io/ResponsiveWebDev/my-team-page/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/D3r3-k/ResponsiveWebDev/tree/master/404-not-found-master">
+    <a href="https://github.com/D3r3-k/ResponsiveWebDev/tree/master/my-team-page">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
       Challenge
     </a>
   </h3>
@@ -34,7 +34,7 @@
 
 ## Overview
 
-![screenshot](https://i.imgur.com/eu1gJBL.jpg)
+![screenshot](https://i.imgur.com/7iQl6WG.jpg)
 
 ### Built With
 
